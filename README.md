@@ -1,4 +1,4 @@
-# Simple E-Commerce Website
+# Blogginf Platform Website
 
 This is a basic e-commerce web application where users can browse products, search for items, and add products to their shopping cart. The website is built using HTML, CSS, and JavaScript, and it dynamically loads product data on the front end.
 
